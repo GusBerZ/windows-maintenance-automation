@@ -33,6 +33,34 @@ Useful for IT support and help desk automation.
 
 ---
 
+# ▶️ How to Run
+
+1. Download the script
+2. Right-click and run as administrator (recommended)
+3. Wait for completion
+4. Check the log file in:
+
+C:\Users\YourUser\Documents\LOG Script\
+
+---
+
+## 📄 Example Output
+
+The script generates a log file with:
+- Deleted temp files
+- Removed folders
+- Recycle Bin contents
+
+---
+
+## 💡 Why This Project Matters
+
+This project demonstrates:
+- Automation of repetitive IT tasks
+- Real-world help desk scenario
+- Basic scripting and system management
+- Use of PowerShell inside batch scripts
+
 ## 👨‍💻 Author
 
 Gustavo Bermudez  
